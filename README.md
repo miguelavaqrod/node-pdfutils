@@ -3,6 +3,10 @@
 PDF Utils for node
 ==================
 
+Fork of the original repository.
+I will try to port this code to NaN, so it works with latest versions of Node.
+NOTE: NOT DONE YET. NOWADAYS IT IS JUST A FORK.
+
 This library contains tools for analysing and converting PDF files. You can
 get metadata, extract text, render pages to svg or png, all with our beloved
 asynchronous programming style.
